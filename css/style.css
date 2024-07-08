@@ -262,9 +262,10 @@ font-size: 12px;
   justify-content: space-between;
 }
 .facilities-box{
-  width: 25%;
+  width: 24%;
   padding: 40px 20px;
   text-align: center;
+  opacity: .9;
   font-family: var(--primary-font);
   background-color: var(--filter-bg);
   border: 1px solid var(--filter-bg);
